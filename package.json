@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "## Description  This idea was introduced to me by U of A's web development boot camp program. Lesson Instructions/Project creation assistance provided by said program.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikuk1/jest-another-RPG.git"
+  },
+  "author": "nikuk1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikuk1/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/nikuk1/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.5.2"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
